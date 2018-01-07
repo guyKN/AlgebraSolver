@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Algebra Solver</string>
+    <string name="error_message">Something went wrong while solving your equation. For example you can write 2x+5+10=3</string>
+</resources>
